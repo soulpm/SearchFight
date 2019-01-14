@@ -1,0 +1,15 @@
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\bin\Debug\searchfight.utilities.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\bin\Debug\searchfight.utilities.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\bin\Debug\searchfight.model.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\bin\Debug\searchfight.model.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\obj\Debug\searchfight.utilities.csprojResolveAssemblyReference.cache
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\obj\Debug\searchfight.utilities.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight.utilities\obj\Debug\searchfight.utilities.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\bin\Debug\searchfight.utilities.dll
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\bin\Debug\searchfight.utilities.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\bin\Debug\searchfight.model.dll
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\bin\Debug\searchfight.model.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\obj\Debug\SearchFight.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\obj\Debug\searchfight.utilities.dll
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\obj\Debug\searchfight.utilities.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.utilities\bin\Debug\searchfight.utilities.dll.config

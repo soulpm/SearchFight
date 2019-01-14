@@ -1,0 +1,13 @@
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.exe
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.facade.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.service.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.model.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.utilities.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.facade.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.service.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.model.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.utilities.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight\obj\Debug\searchfight.exe.csprojResolveAssemblyReference.cache
+G:\Proyectos\Signium\develop\searchfight\searchfight\obj\Debug\searchfight.exe
+G:\Proyectos\Signium\develop\searchfight\searchfight\obj\Debug\searchfight.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight\bin\Debug\searchfight.exe.config

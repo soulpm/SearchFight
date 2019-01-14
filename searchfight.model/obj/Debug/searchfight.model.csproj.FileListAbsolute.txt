@@ -1,0 +1,8 @@
+G:\Proyectos\Signium\develop\searchfight\searchfight.model\bin\Debug\searchfight.model.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight.model\bin\Debug\searchfight.model.pdb
+G:\Proyectos\Signium\develop\searchfight\searchfight.model\obj\Debug\searchfight.model.dll
+G:\Proyectos\Signium\develop\searchfight\searchfight.model\obj\Debug\searchfight.model.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.model\bin\Debug\searchfight.model.dll
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.model\bin\Debug\searchfight.model.pdb
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.model\obj\Debug\searchfight.model.dll
+C:\Users\Souldev\Desktop\sss\searchfight\searchfight.model\obj\Debug\searchfight.model.pdb
